@@ -54,18 +54,6 @@ Computer vision pipeline using YOLOv8n fine-tuned on 1,700 frames (97.2% mAP@50)
   <img src="assets/divider.svg" alt="divider" width="100%" />
 </p>
 
-### ACTIVITY
-
-<p align="center">
-  <img src="assets/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</p>
-
-<br />
-
-<p align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
-</p>
-
 <p align="center">
   <sub>SURYANSH KHARE</sub><br /><br />
   <a href="https://github.com/Ayushkhar">GitHub</a> &nbsp;·&nbsp;
