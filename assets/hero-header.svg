@@ -1,19 +1,19 @@
-<svg fill="none" viewBox="0 0 850 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 850 180" width="100%" height="180" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .bg { fill: #090A0F; rx: 8px; }
-    .name { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 28px; font-weight: 300; fill: #F8FAFC; letter-spacing: -0.5px; }
-    .name-bold { font-weight: 600; fill: #FFFFFF; }
-    .role { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 400; fill: #C5A059; letter-spacing: 2px; text-transform: uppercase; }
-    .cursor { fill: #C5A059; animation: blink 1.2s infinite; }
-    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    .bg { fill: #0B0C10; stroke: rgba(197, 160, 89, 0.2); stroke-width: 1; }
+    .name { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 32px; font-weight: 300; fill: #F8FAFC; letter-spacing: -0.5px; }
+    .name-gold { font-weight: 500; fill: #C5A059; }
+    .sub { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 13px; font-weight: 400; fill: #94A3B8; letter-spacing: 2px; text-transform: uppercase; }
+    .dot { fill: #C5A059; animation: pulse 2s infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 0.3; } 50% { opacity: 1; } }
   </style>
 
-  <rect width="850" height="160" class="bg" />
+  <rect x="1" y="1" width="848" height="178" rx="8" class="bg" />
   
-  <!-- Subtle accent gradient rule -->
-  <line x1="40" y1="36" x2="100" y2="36" stroke="#C5A059" stroke-width="2" stroke-linecap="round" />
-  
-  <text x="40" y="72" class="role">AI / ML Engineer &amp; Systems Architect</text>
-  <text x="40" y="114" class="name">Suryansh <tspan class="name-bold">Khare</tspan></text>
-  <rect x="255" y="94" width="6" height="22" class="cursor" />
+  <!-- Subtle ambient glow -->
+  <circle cx="750" cy="30" r="100" fill="#C5A059" fill-opacity="0.04" />
+
+  <text x="48" y="75" class="sub">portfolio &amp; code</text>
+  <text x="48" y="125" class="name">suryansh khare <tspan class="name-gold">.</tspan></text>
+  <circle cx="280" cy="116" r="3" class="dot" />
 </svg>

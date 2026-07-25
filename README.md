@@ -2,60 +2,85 @@
   <img src="assets/hero-header.svg" alt="Suryansh Khare" width="100%" />
 </p>
 
-Hi, I'm Suryansh. I build machine learning models and backend systems — focusing on real-time computer vision, domain-adapted LLMs, and distributed task queues. Currently studying AI & Machine Learning at PSIT Kanpur.
+Hi, I'm Suryansh. I build machine learning models and backend systems, focusing on real-time computer vision, quantized LLM inference, and task orchestration. Currently studying AI & ML at PSIT Kanpur.
 
 <br />
 
 <p align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
-</p>
-
-### STACK
-
-`Python` &nbsp;·&nbsp; `PyTorch` &nbsp;·&nbsp; `LLaMA` &nbsp;·&nbsp; `YOLOv8` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `SQLite` &nbsp;·&nbsp; `MongoDB`
-
-<br />
-
-<p align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
 ### SELECTED PROJECTS
 
-**[Kisaan Llama](https://github.com/Ayushkhar/llama_kissan-new)**  
-Fine-tuned LLaMA-2-7B model with 4-bit QLoRA quantization for agricultural query resolution. *(TCS PPO Project)*
+✦ **[Kisaan Llama](https://github.com/Ayushkhar/llama_kissan-new)**  
+> Agricultural assistant built by fine-tuning LLaMA-2-7B with 4-bit QLoRA quantization for low-latency edge inference. Earned a Pre-Placement Offer (PPO) at TCS.  
+> `Python` · `LLaMA-2` · `QLoRA` · `PyTorch` · `Replicate`
 
-**[QueueCTL](https://github.com/Ayushkhar/FLAM-CLI-INTERFACE)** &nbsp;·&nbsp; [Live App](https://queuectl.suryanshkhare.online/) &nbsp;·&nbsp; [Demo](https://www.loom.com/share/922691c04da94450aded753bd0e673ec)  
-Distributed task queue and CLI engine built with SQLite WAL persistence and worker thread orchestration.
+<br />
 
-**[PrepOS](https://github.com/Ayushkhar/Prep_os-Live)** &nbsp;·&nbsp; [Live Platform](https://prep-os-live.onrender.com)  
-Exam preparation platform converting syllabi into interactive roadmaps via LLaMA 3.3 (70B) & WebSockets.
+✦ **[QueueCTL](https://github.com/Ayushkhar/FLAM-CLI-INTERFACE)**  
+> Background job queue CLI and worker system engineered with SQLite WAL persistence, exponential retries, and dead-letter queues.  
+> `TypeScript` · `Node.js` · `SQLite (WAL)` · `Docker` · [Live System](https://queuectl.suryanshkhare.online/) · [Video Demo](https://www.loom.com/share/922691c04da94450aded753bd0e673ec)
 
-**[Real-Time Fire Detection](https://github.com/Ayushkhar/Fire-Detection-using-YOLO-v8n-Tweaked-RES-)**  
-Computer vision pipeline using YOLOv8n fine-tuned on 1,700 frames (97.2% mAP@50). *(Springer LNEE Published)*
+<br />
+
+✦ **[PrepOS](https://github.com/Ayushkhar/Prep_os-Live)**  
+> Academic platform converting course syllabi into interactive study roadmaps via 70B LLM inference and WebSockets.  
+> `JavaScript` · `Node.js` · `Socket.IO` · `Groq (LLaMA 3.3)` · `MongoDB` · [Live App](https://prep-os-live.onrender.com)
+
+<br />
+
+✦ **[YOLOv8 Fire Detection](https://github.com/Ayushkhar/Fire-Detection-using-YOLO-v8n-Tweaked-RES-)**  
+> Real-time fire and smoke vision detection system trained on 1,700 annotated frames (97.2% mAP@50) with false-positive lighting suppression.  
+> `Python` · `YOLOv8n` · `PyTorch` · `OpenCV` · `Flask` · [Springer Paper Link](https://github.com/Ayushkhar/Fire-Detection-using-YOLO-v8n-Tweaked-RES-)
 
 <br />
 
 <p align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
-### CREDENTIALS & RESEARCH
+### RESEARCH & EXPERIENCE
 
-- **Springer LNEE Paper:** Published research on real-time fire detection with YOLOv8n (97.2% mAP@50)
-- **PET Scan Diagnosis Paper:** Research on early Alzheimer's & brain pathology signal processing
-- **TCS Pre-Placement Offer (PPO):** Awarded for Kisaan Llama model engineering
-- **IBM (PBEL) & GeeksforGeeks:** Junior ML Engineer / Analyst Intern experience
-- **200+ DSA Problems:** Solved on LeetCode & GeeksforGeeks
+- **Springer LNEE Publication:** *Enhanced Real-Time Fire & Smoke Detection via Tweaked YOLOv8*
+- **Medical AI Research:** *PET Scan Signals for Early Alzheimer's Diagnosis*
+- **IBM (PBEL Program):** Junior ML Engineer — Scalable data preprocessing & latency optimization
+- **GeeksforGeeks:** ML Analyst Intern — Traffic flow prediction modeling
+- **Competitive Programming:** 200+ problems solved across LeetCode & GeeksforGeeks
 
 <br />
 
 <p align="center">
-  <img src="assets/divider.svg" alt="divider" width="100%" />
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
+</p>
+
+### TECH STACK
+
+- **Languages:** Python, JavaScript, TypeScript, C++, C, SQL
+- **AI & Vision:** PyTorch, TensorFlow, YOLOv8, LLaMA, QLoRA, RAG, OpenCV, FAISS
+- **Backend & Systems:** Node.js, Express, FastAPI, Socket.IO, SQLite, PostgreSQL, MongoDB, Redis
+- **Tools:** Docker, Git, Render, Linux, Vitest
+
+<br />
+
+<p align="center">
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
+</p>
+
+### CONTRIBUTIONS
+
+<p align="center">
+  <img src="assets/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
 <p align="center">
-  <sub>SURYANSH KHARE</sub><br /><br />
+  <sub>SURYANSH KHARE</sub><br />
   <a href="https://github.com/Ayushkhar">GitHub</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/suryansh-khare">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:suryanshkhare.dev@gmail.com">Email</a>
