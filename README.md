@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg?v=3" alt="Suryansh Khare — ML & Systems Architect" width="100%" />
+  <img src="assets/header.svg?v=4" alt="Suryansh Khare — ML & Systems Architect" width="100%" />
 </p>
 
 I architect scalable machine learning systems and low-latency backend infrastructure. My work focuses on real-time computer vision engines, domain-adapted LLM fine-tuning and quantization, and resilient distributed task orchestration. Currently completing my B.Tech in AI & Machine Learning at PSIT Kanpur, I bring engineering experience from IBM and GeeksforGeeks alongside published research in peer-reviewed journals.
@@ -119,18 +119,6 @@ I architect scalable machine learning systems and low-latency backend infrastruc
 
 #### Algorithmic Proficiency
 - **200+ Verified DSA Problems:** Solved across LeetCode & GeeksforGeeks with a focus on graph algorithms, dynamic programming, and memory-efficient data structures.
-
-<br />
-
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%" />
-</p>
-
-### CONTRIBUTION ACTIVITY
-
-<p align="center">
-  <img src="assets/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%" />
-</p>
 
 <br />
 
