@@ -1,8 +1,9 @@
-<svg fill="none" viewBox="0 0 850 230" width="100%" height="230" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 850 250" width="100%" height="250" xmlns="http://www.w3.org/2000/svg">
   <style>
     .bg { fill: #090A0F; stroke: rgba(197, 160, 89, 0.35); stroke-width: 1; }
+    .meta { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 500; fill: #64748B; letter-spacing: 1.5px; }
     .subtitle { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 600; fill: #C5A059; letter-spacing: 3.5px; }
-    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 32px; font-weight: 300; fill: #F8FAFC; letter-spacing: -0.5px; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 34px; font-weight: 300; fill: #F8FAFC; letter-spacing: -0.5px; }
     .title-bold { font-weight: 700; fill: #FFFFFF; }
     .tagline { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 400; fill: #94A3B8; letter-spacing: 0.2px; }
     .cursor { fill: #C5A059; animation: blink 1.2s infinite; }
@@ -10,26 +11,35 @@
     
     @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
     @keyframes drawLine { to { stroke-dashoffset: 0; } }
-    @keyframes pulseGlow { 0%, 100% { opacity: 0.4; } 50% { opacity: 0.8; } }
+    @keyframes pulseGlow { 0%, 100% { opacity: 0.05; } 50% { opacity: 0.12; } }
   </style>
 
   <!-- Outer background container -->
-  <rect x="1" y="1" width="848" height="228" rx="8" class="bg" />
+  <rect x="1" y="1" width="848" height="248" rx="8" class="bg" />
+
+  <!-- Subtle aesthetic background grid dots -->
+  <pattern id="dotGrid" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1" fill="#C5A059" fill-opacity="0.07" />
+  </pattern>
+  <rect x="1" y="1" width="848" height="248" rx="8" fill="url(#dotGrid)" />
 
   <!-- Radial Gold Glow background effects -->
-  <circle cx="720" cy="50" r="160" fill="#C5A059" fill-opacity="0.08" style="animation: pulseGlow 4s ease-in-out infinite;" />
-  <circle cx="120" cy="190" r="100" fill="#FFFFFF" fill-opacity="0.02" />
+  <circle cx="720" cy="60" r="160" fill="#C5A059" style="animation: pulseGlow 4s ease-in-out infinite;" />
+  <circle cx="100" cy="200" r="120" fill="#FFFFFF" fill-opacity="0.02" />
+
+  <!-- Location & Verified Status Tag -->
+  <text x="44" y="52" class="meta">KANPUR, INDIA  ·  VERIFIED AI/ML ENGINEER</text>
 
   <!-- Typography Content -->
-  <text x="44" y="66" class="subtitle">CURATED PORTFOLIO &amp; TECHNICAL PROFILE</text>
-  <text x="44" y="116" class="title">Suryansh Khare <tspan class="title-bold">— ML &amp; Systems</tspan></text>
-  <text x="44" y="158" class="tagline">Junior ML Engineer @ IBM PBEL &amp; Published AI Researcher</text>
+  <text x="44" y="94" class="subtitle">CURATED PORTFOLIO &amp; TECHNICAL PROFILE</text>
+  <text x="44" y="142" class="title">Suryansh Khare <tspan class="title-bold">— ML &amp; Systems</tspan></text>
+  <text x="44" y="182" class="tagline">Junior ML Engineer @ IBM PBEL &amp; Published AI Researcher</text>
   
   <!-- Understated typing cursor -->
-  <rect x="462" y="146" width="7" height="15" class="cursor" />
+  <rect x="462" y="170" width="7" height="15" class="cursor" />
 
   <!-- Animated accent line -->
-  <line x1="44" y1="188" x2="806" y2="188" class="glow-line" />
+  <line x1="44" y1="212" x2="806" y2="212" class="glow-line" />
 
   <defs>
     <linearGradient id="gold-glow" x1="44" y1="0" x2="806" y2="0" gradientUnits="userSpaceOnUse">
