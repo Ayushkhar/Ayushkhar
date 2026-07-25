@@ -10,6 +10,52 @@ I architect scalable machine learning systems and low-latency backend infrastruc
   <img src="assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
+### TECHNICAL CAPABILITIES
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-090A0F?style=flat-square&logo=python&logoColor=C5A059" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-090A0F?style=flat-square&logo=javascript&logoColor=C5A059" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-090A0F?style=flat-square&logo=typescript&logoColor=C5A059" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C++-090A0F?style=flat-square&logo=cplusplus&logoColor=C5A059" alt="C++" />
+  <img src="https://img.shields.io/badge/C-090A0F?style=flat-square&logo=c&logoColor=C5A059" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-090A0F?style=flat-square&logo=postgresql&logoColor=C5A059" alt="SQL" />
+  <br />
+  <!-- AI & Machine Learning -->
+  <img src="https://img.shields.io/badge/PyTorch-090A0F?style=flat-square&logo=pytorch&logoColor=C5A059" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-090A0F?style=flat-square&logo=tensorflow&logoColor=C5A059" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/YOLOv8-090A0F?style=flat-square&logo=ultralytics&logoColor=C5A059" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/LLaMA_2%2F3-090A0F?style=flat-square&logo=meta&logoColor=C5A059" alt="LLaMA" />
+  <img src="https://img.shields.io/badge/PEFT_%2F_QLoRA-090A0F?style=flat-square&logo=huggingface&logoColor=C5A059" alt="QLoRA" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-090A0F?style=flat-square&logo=chainlink&logoColor=C5A059" alt="RAG" />
+  <img src="https://img.shields.io/badge/OpenCV-090A0F?style=flat-square&logo=opencv&logoColor=C5A059" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/FAISS-090A0F?style=flat-square&logo=meta&logoColor=C5A059" alt="FAISS" />
+  <br />
+  <!-- Backend & Databases -->
+  <img src="https://img.shields.io/badge/Node.js-090A0F?style=flat-square&logo=nodedotjs&logoColor=C5A059" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-090A0F?style=flat-square&logo=express&logoColor=C5A059" alt="Express" />
+  <img src="https://img.shields.io/badge/FastAPI-090A0F?style=flat-square&logo=fastapi&logoColor=C5A059" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Socket.IO-090A0F?style=flat-square&logo=socketdotio&logoColor=C5A059" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/SQLite_(WAL)-090A0F?style=flat-square&logo=sqlite&logoColor=C5A059" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-090A0F?style=flat-square&logo=postgresql&logoColor=C5A059" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-090A0F?style=flat-square&logo=mongodb&logoColor=C5A059" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-090A0F?style=flat-square&logo=redis&logoColor=C5A059" alt="Redis" />
+  <br />
+  <!-- Tools & Infrastructure -->
+  <img src="https://img.shields.io/badge/Docker-090A0F?style=flat-square&logo=docker&logoColor=C5A059" alt="Docker" />
+  <img src="https://img.shields.io/badge/Render-090A0F?style=flat-square&logo=render&logoColor=C5A059" alt="Render" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-090A0F?style=flat-square&logo=githubactions&logoColor=C5A059" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Replicate_API-090A0F?style=flat-square&logo=replicate&logoColor=C5A059" alt="Replicate" />
+  <img src="https://img.shields.io/badge/Linux-090A0F?style=flat-square&logo=linux&logoColor=C5A059" alt="Linux" />
+  <img src="https://img.shields.io/badge/Vitest-090A0F?style=flat-square&logo=vitest&logoColor=C5A059" alt="Vitest" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
+</p>
+
 ### SELECTED WORK
 
 ```
@@ -80,26 +126,11 @@ I architect scalable machine learning systems and low-latency backend infrastruc
   <img src="assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
-### TECHNICAL CAPABILITIES
+### CONTRIBUTION ACTIVITY
 
-<table>
-  <tr>
-    <td width="22%" opacity="0.7"><b>Languages</b></td>
-    <td><code>Python</code> &nbsp; <code>JavaScript</code> &nbsp; <code>TypeScript</code> &nbsp; <code>C</code> &nbsp; <code>C++</code> &nbsp; <code>SQL</code></td>
-  </tr>
-  <tr>
-    <td><b>AI & Machine Learning</b></td>
-    <td><code>PyTorch</code> &nbsp; <code>TensorFlow</code> &nbsp; <code>YOLOv8</code> &nbsp; <code>LLaMA 2 / 3</code> &nbsp; <code>PEFT / QLoRA</code> &nbsp; <code>RAG Pipelines</code> &nbsp; <code>FAISS</code> &nbsp; <code>OpenCV</code></td>
-  </tr>
-  <tr>
-    <td><b>Backend & Systems</b></td>
-    <td><code>Node.js</code> &nbsp; <code>Express</code> &nbsp; <code>FastAPI</code> &nbsp; <code>Socket.IO</code> &nbsp; <code>SQLite (WAL)</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>MongoDB</code> &nbsp; <code>Redis</code></td>
-  </tr>
-  <tr>
-    <td><b>Infrastructure & Tools</b></td>
-    <td><code>Docker</code> &nbsp; <code>Render</code> &nbsp; <code>Git / GitHub Actions</code> &nbsp; <code>Replicate API</code> &nbsp; <code>Linux / Bash</code> &nbsp; <code>Vitest</code></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%" />
+</p>
 
 <br />
 
