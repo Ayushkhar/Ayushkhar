@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero-header.svg" alt="Suryansh Khare — ML & Systems Architect" width="100%" />
+  <img src="assets/header.svg?v=3" alt="Suryansh Khare — ML & Systems Architect" width="100%" />
 </p>
 
 I architect scalable machine learning systems and low-latency backend infrastructure. My work focuses on real-time computer vision engines, domain-adapted LLM fine-tuning and quantization, and resilient distributed task orchestration. Currently completing my B.Tech in AI & Machine Learning at PSIT Kanpur, I bring engineering experience from IBM and GeeksforGeeks alongside published research in peer-reviewed journals.
@@ -141,7 +141,7 @@ I architect scalable machine learning systems and low-latency backend infrastruc
 ### CONTACT
 
 <p align="center">
-  <sub>SURYANSH KHARE — KANPUR, INDIA</sub><br />
+  <sub>SURYANSH KHARE</sub><br />
   <a href="https://github.com/Ayushkhar"><b>GitHub</b></a> &nbsp;&mdash;&nbsp;
   <a href="https://linkedin.com/in/suryansh-khare"><b>LinkedIn</b></a> &nbsp;&mdash;&nbsp;
   <a href="mailto:suryanshkhare.dev@gmail.com"><b>Email</b></a>
