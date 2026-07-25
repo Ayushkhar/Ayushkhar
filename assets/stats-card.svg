@@ -1,0 +1,36 @@
+<svg fill="none" viewBox="0 0 850 120" width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #090A0F; stroke: rgba(197, 160, 89, 0.25); stroke-width: 1; rx: 6px; }
+    .val { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 24px; font-weight: 700; fill: #C5A059; }
+    .lbl { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 10px; font-weight: 600; fill: #94A3B8; letter-spacing: 1.5px; }
+    .badge { fill: #161B2D; stroke: rgba(197, 160, 89, 0.3); stroke-width: 1; rx: 4px; }
+    .badge-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; font-weight: 600; fill: #C5A059; }
+  </style>
+
+  <rect x="1" y="1" width="848" height="118" rx="6" class="bg" />
+
+  <!-- Metric 1 -->
+  <g transform="translate(40, 30)">
+    <text x="0" y="24" class="val">B.Tech AI/ML</text>
+    <text x="0" y="48" class="lbl">PSIT KANPUR (2023–2027)</text>
+  </g>
+
+  <!-- Metric 2 -->
+  <g transform="translate(260, 30)">
+    <text x="0" y="24" class="val">2 Papers</text>
+    <text x="0" y="48" class="lbl">SPRINGER LNEE &amp; MEDICAL PET</text>
+  </g>
+
+  <!-- Metric 3 -->
+  <g transform="translate(480, 30)">
+    <text x="0" y="24" class="val">IBM PBEL</text>
+    <text x="0" y="48" class="lbl">DATA PREPROCESSING AT SCALE</text>
+  </g>
+
+  <!-- Status Badge Pill -->
+  <g transform="translate(680, 42)">
+    <rect x="0" y="0" width="130" height="34" rx="17" class="badge" />
+    <circle cx="18" cy="17" r="4" fill="#27C93F" />
+    <text x="30" y="21" class="badge-text">OPEN TO ROLES</text>
+  </g>
+</svg>

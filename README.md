@@ -2,7 +2,23 @@
   <img src="assets/hero-header.svg" alt="Suryansh Khare — ML & Systems Architect" width="100%" />
 </p>
 
+<p align="center">
+  <img src="assets/stats-card.svg" alt="Engineering Overview & Status" width="100%" />
+</p>
+
 I architect scalable machine learning systems and low-latency backend infrastructure. My work focuses on real-time computer vision engines, domain-adapted LLM fine-tuning and quantization, and resilient distributed task orchestration. Currently completing my B.Tech in AI & Machine Learning at PSIT Kanpur, I bring engineering experience from IBM and GeeksforGeeks alongside published research in peer-reviewed journals.
+
+<br />
+
+<p align="center">
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
+</p>
+
+### SYSTEM ARCHITECTURE & CODE PHILOSOPHY
+
+<p align="center">
+  <img src="assets/architecture-card.svg" alt="System Architecture Specification" width="100%" />
+</p>
 
 <br />
 
@@ -126,6 +142,21 @@ I architect scalable machine learning systems and low-latency backend infrastruc
   <img src="assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
+### ACTIVE RESEARCH & INITIATIVES
+
+```
+CURRENT FOCUS / 2026
+```
+- ⚡ **Low-Bit LLM Quantization:** Exploring sub-4-bit weight-only and activation quantization strategies for deployment on constrained edge accelerators.
+- 🔍 **Multimodal Vector RAG:** Building hybrid temporal + semantic retrieval indexes using FAISS and custom S2 embeddings for high-throughput video/image deduplication.
+- 🛠️ **Distributed Backend Systems:** Optimizing lock-free database persistence and high-concurrency worker thread pools.
+
+<br />
+
+<p align="center">
+  <img src="assets/divider.svg" alt="Divider" width="100%" />
+</p>
+
 ### CONTRIBUTION ACTIVITY
 
 <p align="center">
@@ -138,7 +169,7 @@ I architect scalable machine learning systems and low-latency backend infrastruc
   <img src="assets/divider.svg" alt="Divider" width="100%" />
 </p>
 
-### CONTACT
+### CONTACT & SIGNATURE
 
 <p align="center">
   <sub>SURYANSH KHARE — KANPUR, INDIA</sub><br />
